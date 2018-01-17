@@ -3,7 +3,7 @@ Distributed drawing application that allows two or more users to upload a picutr
 
 # Requirements 
 Install Eclipse IED OXYGEN 
-Under run configurations change the aruguments flag to execpt ipv4 adresses using 
+Under run configurations change the aruguments flag to execpt ipv4 adresses using <br>
 `-Djava.net.preferIPv4Stack=true`
 
 # Contributers
